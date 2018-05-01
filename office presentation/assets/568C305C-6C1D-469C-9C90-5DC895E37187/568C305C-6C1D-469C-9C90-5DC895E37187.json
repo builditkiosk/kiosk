@@ -1,5 +1,19 @@
 {
   "assets" : {
+    "F212C77CF804A6C57210349827BA4E85" : {
+      "type" : "texture",
+      "index" : 6,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/568C305C-6C1D-469C-9C90-5DC895E37187.pdf"
+      },
+      "width" : 906,
+      "height" : 983
+    },
     "3B7B68B7CD2D26EE3177D7181D8DEAE6" : {
       "type" : "texture",
       "index" : 4,
@@ -111,20 +125,6 @@
       },
       "width" : 603,
       "height" : 768
-    },
-    "2F721852258AE41DB687500ACB02F912" : {
-      "type" : "texture",
-      "index" : 6,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/568C305C-6C1D-469C-9C90-5DC895E37187.pdf"
-      },
-      "width" : 906,
-      "height" : 983
     },
     "0694B4441B6ABCEDFA75EC78B7FB280E" : {
       "type" : "texture",
@@ -426,44 +426,17 @@
         {
           "text" : "IMG_8917.JPG",
           "targetRectangle" : {
-            "y" : -42.25712493083677,
-            "x" : 1371.055649913252,
+            "y" : -42.25712585449219,
+            "x" : 1371.0556640625,
             "width" : 600.2034301757812,
             "height" : 450.152587890625
           }
         },
         {
-          "text" : "IMG_8917.JPG",
-          "targetRectangle" : {
-            "y" : 368.969395271514,
-            "x" : 4.240640931209441,
-            "width" : 943.5559692382814,
-            "height" : 707.6669921875
-          }
-        },
-        {
-          "text" : "Congrats to Jason Wagner on his art publication!",
-          "targetRectangle" : {
-            "y" : 197.8049265963114,
-            "x" : 273.7699388037584,
-            "width" : 1321.473857760429,
-            "height" : 72.00000000000003
-          }
-        },
-        {
-          "text" : "abstract-expressionism.jpg",
-          "targetRectangle" : {
-            "y" : 1.323906628329212,
-            "x" : 0.2996406462811478,
-            "width" : 558.286865234375,
-            "height" : 650.5902709960938
-          }
-        },
-        {
           "text" : "abstract.JPG",
           "targetRectangle" : {
-            "y" : 1.881946012360913e-07,
-            "x" : 444.648910411621,
+            "y" : 1.88194604788805e-07,
+            "x" : 444.6488952636719,
             "width" : 1080,
             "height" : 1080
           }
@@ -471,19 +444,46 @@
         {
           "text" : "expressionism.JPG",
           "targetRectangle" : {
-            "y" : 362.7072610439457,
-            "x" : 1194.803282323901,
-            "width" : 902.3713378906252,
+            "y" : 362.707275390625,
+            "x" : 1194.80322265625,
+            "width" : 902.371337890625,
             "height" : 979.9561767578125
           }
         },
         {
           "text" : "Jason Wagner-RAW Denver presents CONNECT.jpeg",
           "targetRectangle" : {
-            "y" : 315.5629539951574,
-            "x" : -0.1452784503630911,
+            "y" : 315.5629577636719,
+            "x" : -0.1452784538269043,
             "width" : 600,
             "height" : 765
+          }
+        },
+        {
+          "text" : "Congrats to Jason Wagner on his art publication!",
+          "targetRectangle" : {
+            "y" : 197.804931640625,
+            "x" : 273.7699279785156,
+            "width" : 1321.473857760429,
+            "height" : 72
+          }
+        },
+        {
+          "text" : "abstract-expressionism.jpg",
+          "targetRectangle" : {
+            "y" : 1.323906660079956,
+            "x" : 0.2996406555175781,
+            "width" : 558.286865234375,
+            "height" : 650.5902709960938
+          }
+        },
+        {
+          "text" : "IMG_8917.JPG",
+          "targetRectangle" : {
+            "y" : 368.9693908691406,
+            "x" : 4.240641117095947,
+            "width" : 943.5559692382812,
+            "height" : 707.6669921875
           }
         }
       ],
@@ -796,8 +796,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 1672.555649913252,
-                    "pointY" : 184.2428750691632
+                    "pointX" : 1672.5556640625,
+                    "pointY" : 184.2428741455078
                   },
                   "width" : 603,
                   "sublayerTransform" : [
@@ -862,8 +862,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 300.444350086748,
-                        "pointY" : 224.7571249308368
+                        "pointX" : 300.4443359375,
+                        "pointY" : 224.7571258544922
                       },
                       "width" : 603,
                       "sublayerTransform" : [
@@ -977,8 +977,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 477.2406409312094,
-                    "pointY" : 724.469395271514
+                    "pointX" : 477.2406411170959,
+                    "pointY" : 724.4693908691406
                   },
                   "width" : 946,
                   "sublayerTransform" : [
@@ -1043,8 +1043,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 471.7593590687906,
-                        "pointY" : 353.530604728486
+                        "pointX" : 471.7593588829041,
+                        "pointY" : 353.5306091308594
                       },
                       "width" : 946,
                       "sublayerTransform" : [
@@ -1158,7 +1158,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 986.148910411621,
+                    "pointX" : 986.1488952636719,
                     "pointY" : 541.5000001881946
                   },
                   "width" : 1083,
@@ -1224,7 +1224,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 539.851089588379,
+                        "pointX" : 539.8511047363281,
                         "pointY" : 540.4999998118054
                       },
                       "width" : 1083,
@@ -1339,8 +1339,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 280.7996406462811,
-                    "pointY" : 327.8239066283292
+                    "pointX" : 280.7996406555176,
+                    "pointY" : 327.82390666008
                   },
                   "width" : 561,
                   "sublayerTransform" : [
@@ -1405,8 +1405,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 279.2003593537189,
-                        "pointY" : 325.1760933716708
+                        "pointX" : 279.2003593444824,
+                        "pointY" : 325.17609333992
                       },
                       "width" : 561,
                       "sublayerTransform" : [
@@ -1520,8 +1520,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 936.2699388037584,
-                    "pointY" : 230.8049265963114
+                    "pointX" : 936.2699279785156,
+                    "pointY" : 230.804931640625
                   },
                   "width" : 1325,
                   "sublayerTransform" : [
@@ -1568,7 +1568,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.4838423295454545,
-                      "textBaseline" : 0.7728196738077492,
+                      "textBaseline" : 0.7728197502367424,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -1592,8 +1592,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 662.7300611962416,
-                        "pointY" : 40.19507340368855
+                        "pointX" : 662.7300720214844,
+                        "pointY" : 40.195068359375
                       },
                       "width" : 1325,
                       "sublayerTransform" : [
@@ -1707,8 +1707,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 1647.803282323901,
-                    "pointY" : 854.2072610439457
+                    "pointX" : 1647.80322265625,
+                    "pointY" : 854.207275390625
                   },
                   "width" : 906,
                   "sublayerTransform" : [
@@ -1773,8 +1773,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 451.1967176760993,
-                        "pointY" : 489.7927389560543
+                        "pointX" : 451.19677734375,
+                        "pointY" : 489.792724609375
                       },
                       "width" : 906,
                       "sublayerTransform" : [
@@ -1810,7 +1810,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "2F721852258AE41DB687500ACB02F912"
+                    "texture" : "F212C77CF804A6C57210349827BA4E85"
                   }
                 ]
               }
@@ -1888,8 +1888,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 301.3547215496369,
-                    "pointY" : 699.5629539951574
+                    "pointX" : 301.3547215461731,
+                    "pointY" : 699.5629577636719
                   },
                   "width" : 603,
                   "sublayerTransform" : [
@@ -1954,8 +1954,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 299.6452784503631,
-                        "pointY" : 382.4370460048426
+                        "pointX" : 299.6452784538269,
+                        "pointY" : 382.4370422363281
                       },
                       "width" : 603,
                       "sublayerTransform" : [

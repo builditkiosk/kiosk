@@ -2,9 +2,9 @@ local_slide( {
   "name" : "42CEC45D-9A6E-41E2-B769-FBF7F3680364",
   "json" : {
     "assets" : {
-      "DF955A67696248AF0FBAB3F53E5A6DFC" : {
+      "8D89E11A208BBF3EDBEC0E68E0E93050" : {
         "type" : "texture",
-        "index" : 7,
+        "index" : 4,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -13,8 +13,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/42CEC45D-9A6E-41E2-B769-FBF7F3680364.pdf"
         },
-        "width" : 1920,
-        "height" : 1080
+        "width" : 556,
+        "height" : 52
       },
       "3C71007D54E776F43F83638099452BA6" : {
         "type" : "texture",
@@ -58,9 +58,9 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "2220F3397CDACB13462BF07286594486" : {
+      "2A890CD0C40BD80CB75A8FA44A72D33A" : {
         "type" : "texture",
-        "index" : 1,
+        "index" : 6,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -69,22 +69,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/42CEC45D-9A6E-41E2-B769-FBF7F3680364.pdf"
         },
-        "width" : 1137,
-        "height" : 1082
-      },
-      "3EBEC66AAA489B7C01BECF0EBCE6F353" : {
-        "type" : "texture",
-        "index" : 4,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/42CEC45D-9A6E-41E2-B769-FBF7F3680364.pdf"
-        },
-        "width" : 255,
-        "height" : 42
+        "width" : 1920,
+        "height" : 1080
       },
       "AF7491DD2270BBD134E5A3885C2EB037" : {
         "type" : "texture",
@@ -100,9 +86,23 @@ local_slide( {
         "width" : 274,
         "height" : 46
       },
-      "EA50B9CEBB725DD72CF7DAB45734F015" : {
+      "2220F3397CDACB13462BF07286594486" : {
         "type" : "texture",
-        "index" : 6,
+        "index" : 1,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/42CEC45D-9A6E-41E2-B769-FBF7F3680364.pdf"
+        },
+        "width" : 1137,
+        "height" : 1082
+      },
+      "53FEC84987F4667861AB71014FA5FD9F" : {
+        "type" : "texture",
+        "index" : 7,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -296,7 +296,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "EA50B9CEBB725DD72CF7DAB45734F015"
+                      "texture" : "2A890CD0C40BD80CB75A8FA44A72D33A"
                     },
                     {
                       "animations" : [
@@ -377,7 +377,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "DF955A67696248AF0FBAB3F53E5A6DFC"
+                      "texture" : "53FEC84987F4667861AB71014FA5FD9F"
                     }
                   ]
                 }
@@ -398,12 +398,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Shaun is an experienced Agile Coach and Scrum Master with a Quality Assurance background. He is passionate about partnering with teams and organizations to build a culture of continuous improvement, and is known for his calm demeanor when building trust with teams.  In his spare time, Shaun is a CrossFit coach, loves the beautiful outdoors of Colorado, and enjoys a cold beer with friends on a sunny patio.",
+            "text" : "Shaun Parris - Delivery Lead",
             "targetRectangle" : {
-              "y" : 346.7096920013428,
-              "x" : 31.92436558008194,
-              "width" : 826.7300952672958,
-              "height" : 561.600022315979
+              "y" : 159.4647418260574,
+              "x" : 1166.529444001201,
+              "width" : 554.3360829353333,
+              "height" : 72.00000286102295
             }
           },
           {
@@ -425,12 +425,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Shaun Parris",
+            "text" : "Shaun is an experienced Agile Coach and Scrum Master with a Quality Assurance background. He is passionate about partnering with teams and organizations to build a culture of continuous improvement, and is known for his calm demeanor when building trust with teams.  In his spare time, Shaun is a CrossFit coach, loves the beautiful outdoors of Colorado, and enjoys a cold beer with friends on a sunny patio.",
             "targetRectangle" : {
-              "y" : 159.4647365808487,
-              "x" : 1271.997072458267,
-              "width" : 252.6744484901428,
-              "height" : 72.00000286102295
+              "y" : 346.7096920013428,
+              "x" : 31.92436558008194,
+              "width" : 826.7300952672958,
+              "height" : 561.600022315979
             }
           }
         ],
@@ -1365,10 +1365,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 1363.4970703125,
-                      "pointY" : 176.4647365808487
+                      "pointX" : 1408.529441855433,
+                      "pointY" : 181.4647418260574
                     },
-                    "width" : 255,
+                    "width" : 556,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -1395,7 +1395,7 @@ local_slide( {
                     },
                     "opacity" : 1,
                     "edgeAntialiasingMask" : 251658240,
-                    "height" : 42,
+                    "height" : 52,
                     "hidden" : false,
                     "anchorPoint" : {
                       "pointX" : 0.5,
@@ -1412,8 +1412,8 @@ local_slide( {
                       ],
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
-                        "textXHeight" : 0.62255859375,
-                        "textBaseline" : 0.9277550748416356,
+                        "textXHeight" : 0.5028357872596154,
+                        "textBaseline" : 0.7493407382414892,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -1437,10 +1437,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 163.5029296875,
-                          "pointY" : 34.53526341915131
+                          "pointX" : 314.4705581445667,
+                          "pointY" : 39.53525817394257
                         },
-                        "width" : 255,
+                        "width" : 556,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -1467,14 +1467,14 @@ local_slide( {
                         },
                         "opacity" : 1,
                         "edgeAntialiasingMask" : 0,
-                        "height" : 42,
+                        "height" : 52,
                         "hidden" : false,
                         "anchorPoint" : {
                           "pointX" : 0.5,
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "3EBEC66AAA489B7C01BECF0EBCE6F353"
+                      "texture" : "8D89E11A208BBF3EDBEC0E68E0E93050"
                     }
                   ]
                 }

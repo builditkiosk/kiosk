@@ -30,6 +30,20 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
+      "2A890CD0C40BD80CB75A8FA44A72D33A" : {
+        "type" : "texture",
+        "index" : 0,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/3983408A-AEFE-4C87-9AF6-A23CB36E7B9E.pdf"
+        },
+        "width" : 1920,
+        "height" : 1080
+      },
       "AA1EDE16EBC95DD14123ABF83E098EB5" : {
         "type" : "texture",
         "index" : 1,
@@ -61,20 +75,6 @@ local_slide( {
       "54A28DB25E4208AD50B2F5C6DC1162BE" : {
         "type" : "texture",
         "index" : 5,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/3983408A-AEFE-4C87-9AF6-A23CB36E7B9E.pdf"
-        },
-        "width" : 1920,
-        "height" : 1080
-      },
-      "C25C25FF361FB24FC35F6B120D2F252D" : {
-        "type" : "texture",
-        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -370,15 +370,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "new-york-city-2380683_960_720.jpg",
-            "targetRectangle" : {
-              "y" : 0.1610169559717178,
-              "x" : -1.411995768547058,
-              "width" : 1935.361450195312,
-              "height" : 1126.94482421875
-            }
-          },
-          {
             "text" : "Practice Development Talks - Friday May 11th @ 3pm",
             "targetRectangle" : {
               "y" : 343.2065534591675,
@@ -394,6 +385,15 @@ local_slide( {
               "x" : 94.68465340137482,
               "width" : 872.1457707881927,
               "height" : 86.40000343322754
+            }
+          },
+          {
+            "text" : "new-york-city-2380683_960_720.jpg",
+            "targetRectangle" : {
+              "y" : 0.1610169559717178,
+              "x" : -1.411995768547058,
+              "width" : 1935.361450195312,
+              "height" : 1126.94482421875
             }
           },
           {
@@ -637,7 +637,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C25C25FF361FB24FC35F6B120D2F252D"
+                      "texture" : "2A890CD0C40BD80CB75A8FA44A72D33A"
                     }
                   ]
                 }

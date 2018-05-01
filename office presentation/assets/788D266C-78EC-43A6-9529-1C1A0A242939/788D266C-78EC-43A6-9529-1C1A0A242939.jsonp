@@ -398,30 +398,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Strategy \/ Design \/ Technology",
+            "targetRectangle" : {
+              "y" : 953.6026022434235,
+              "x" : 1179.461181640625,
+              "width" : 634.0517570078373,
+              "height" : 61
+            }
+          },
+          {
             "text" : "denver_union_station_exterior_2015_991321c8-7b2b-4f91-bd96-1c8826647822.jpg",
             "targetRectangle" : {
               "y" : -88.06890869140625,
               "x" : -83.16888427734375,
               "width" : 2007.71875,
               "height" : 1256.15625
-            }
-          },
-          {
-            "text" : "wipro_digital_white_logo.ai",
-            "targetRectangle" : {
-              "y" : 1003.599060058594,
-              "x" : 99.21440887451172,
-              "width" : 130.0432281494141,
-              "height" : 24
-            }
-          },
-          {
-            "text" : "buildit @ wipro digital",
-            "targetRectangle" : {
-              "y" : 926.6026000976562,
-              "x" : 42.98530578613281,
-              "width" : 896.2611337378621,
-              "height" : 108
             }
           },
           {
@@ -434,12 +425,21 @@ local_slide( {
             }
           },
           {
-            "text" : "Strategy \/ Design \/ Technology",
+            "text" : "buildit @ wipro digital",
             "targetRectangle" : {
-              "y" : 953.6026022434235,
-              "x" : 1179.461181640625,
-              "width" : 634.0517570078373,
-              "height" : 61
+              "y" : 926.6026000976562,
+              "x" : 42.98530578613281,
+              "width" : 896.2611337378621,
+              "height" : 108
+            }
+          },
+          {
+            "text" : "wipro_digital_white_logo.ai",
+            "targetRectangle" : {
+              "y" : 1003.599060058594,
+              "x" : 99.21440887451172,
+              "width" : 130.0432281494141,
+              "height" : 24
             }
           }
         ],

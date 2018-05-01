@@ -42,7 +42,7 @@
       "width" : 1920,
       "height" : 1080
     },
-    "B25EFD72F11184C73DA0DDE895B22C34" : {
+    "DCAD575AFC5FB6B0518C8F76B474624E" : {
       "type" : "texture",
       "index" : 2,
       "assetRequest" : {
@@ -238,7 +238,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "B25EFD72F11184C73DA0DDE895B22C34"
+                    "texture" : "DCAD575AFC5FB6B0518C8F76B474624E"
                   },
                   {
                     "animations" : [

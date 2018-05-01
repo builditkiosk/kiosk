@@ -2,7 +2,35 @@ local_slide( {
   "name" : "CD0B5BFE-B91A-41B2-A7C0-A55AC0374A97",
   "json" : {
     "assets" : {
-      "DF955A67696248AF0FBAB3F53E5A6DFC" : {
+      "C4017F7DD03A4D00E8FF663788069430" : {
+        "type" : "texture",
+        "index" : 5,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/CD0B5BFE-B91A-41B2-A7C0-A55AC0374A97.pdf"
+        },
+        "width" : 631,
+        "height" : 631
+      },
+      "C1E8DFC49A1A2D7FD5371B1BBCB8C4A0" : {
+        "type" : "texture",
+        "index" : 4,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/CD0B5BFE-B91A-41B2-A7C0-A55AC0374A97.pdf"
+        },
+        "width" : 632,
+        "height" : 52
+      },
+      "53FEC84987F4667861AB71014FA5FD9F" : {
         "type" : "texture",
         "index" : 6,
         "assetRequest" : {
@@ -16,9 +44,9 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "C25C25FF361FB24FC35F6B120D2F252D" : {
+      "DCAD575AFC5FB6B0518C8F76B474624E" : {
         "type" : "texture",
-        "index" : 0,
+        "index" : 7,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -29,20 +57,6 @@ local_slide( {
         },
         "width" : 1920,
         "height" : 1080
-      },
-      "C8862C76BF0A6F26DEB71D56D52638C0" : {
-        "type" : "texture",
-        "index" : 5,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/CD0B5BFE-B91A-41B2-A7C0-A55AC0374A97.pdf"
-        },
-        "width" : 631,
-        "height" : 631
       },
       "AF7491DD2270BBD134E5A3885C2EB037" : {
         "type" : "texture",
@@ -58,20 +72,6 @@ local_slide( {
         "width" : 274,
         "height" : 46
       },
-      "5443DBB0520B7C163C8D81C71713063F" : {
-        "type" : "texture",
-        "index" : 4,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/CD0B5BFE-B91A-41B2-A7C0-A55AC0374A97.pdf"
-        },
-        "width" : 330,
-        "height" : 51
-      },
       "2220F3397CDACB13462BF07286594486" : {
         "type" : "texture",
         "index" : 1,
@@ -86,9 +86,9 @@ local_slide( {
         "width" : 1137,
         "height" : 1082
       },
-      "B25EFD72F11184C73DA0DDE895B22C34" : {
+      "C25C25FF361FB24FC35F6B120D2F252D" : {
         "type" : "texture",
-        "index" : 7,
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -296,7 +296,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "DF955A67696248AF0FBAB3F53E5A6DFC"
+                      "texture" : "53FEC84987F4667861AB71014FA5FD9F"
                     },
                     {
                       "animations" : [
@@ -377,7 +377,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "B25EFD72F11184C73DA0DDE895B22C34"
+                      "texture" : "DCAD575AFC5FB6B0518C8F76B474624E"
                     }
                   ]
                 }
@@ -398,24 +398,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Chris is an Agilist who has coached and trained multiple companies through their Agile transformations.  Chris enjoys discovering what will work best for a company given their culture, product, and technology.  In his spare time, Chris enjoys his time with his wife and two boys. He also likes long walks on the beach, a good romcom and is a Leo.",
-            "targetRectangle" : {
-              "y" : 346.7096920013428,
-              "x" : 31.92436558008194,
-              "width" : 839.5854303836823,
-              "height" : 499.2000198364258
-            }
-          },
-          {
-            "text" : "Chris Mundt (CJ)",
-            "targetRectangle" : {
-              "y" : 159.4647365808487,
-              "x" : 1271.997072458267,
-              "width" : 329.3471813201904,
-              "height" : 72.00000286102295
-            }
-          },
-          {
             "text" : "New Faces",
             "targetRectangle" : {
               "y" : 155.9647369384766,
@@ -425,10 +407,28 @@ local_slide( {
             }
           },
           {
+            "text" : "Chris Mundt (CJ) - Delivery Lead",
+            "targetRectangle" : {
+              "y" : 159.4647369468472,
+              "x" : 1126.823054085633,
+              "width" : 631.0088157653809,
+              "height" : 72.00000286102295
+            }
+          },
+          {
+            "text" : "Chris is an Agilist who has coached and trained multiple companies through their Agile transformations.  Chris enjoys discovering what will work best for a company given their culture, product, and technology.  In his spare time, Chris enjoys his time with his wife and two boys. He also likes long walks on the beach, a good romcom and is a Leo.",
+            "targetRectangle" : {
+              "y" : 346.7096920013428,
+              "x" : 31.92436558008194,
+              "width" : 839.5854303836823,
+              "height" : 499.2000198364258
+            }
+          },
+          {
             "text" : "CJ.jpg",
             "targetRectangle" : {
-              "y" : 291.6598205566406,
-              "x" : 1129.592041015625,
+              "y" : 289.3353653508295,
+              "x" : 1143.538772250492,
               "width" : 628.2164306640625,
               "height" : 628.2164306640625
             }
@@ -1365,10 +1365,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 1400.9970703125,
-                      "pointY" : 180.9647365808487
+                      "pointX" : 1406.823051939866,
+                      "pointY" : 181.4647369468472
                     },
-                    "width" : 330,
+                    "width" : 632,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -1395,7 +1395,7 @@ local_slide( {
                     },
                     "opacity" : 1,
                     "edgeAntialiasingMask" : 251658240,
-                    "height" : 51,
+                    "height" : 52,
                     "hidden" : false,
                     "anchorPoint" : {
                       "pointX" : 0.5,
@@ -1412,8 +1412,8 @@ local_slide( {
                       ],
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
-                        "textXHeight" : 0.5126953125,
-                        "textBaseline" : 0.7640335910460528,
+                        "textXHeight" : 0.5028357872596154,
+                        "textBaseline" : 0.7493406444105233,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -1437,10 +1437,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 201.0029296875,
-                          "pointY" : 39.03526341915131
+                          "pointX" : 352.1769480601338,
+                          "pointY" : 39.53526305315279
                         },
-                        "width" : 330,
+                        "width" : 632,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -1467,14 +1467,14 @@ local_slide( {
                         },
                         "opacity" : 1,
                         "edgeAntialiasingMask" : 0,
-                        "height" : 51,
+                        "height" : 52,
                         "hidden" : false,
                         "anchorPoint" : {
                           "pointX" : 0.5,
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "5443DBB0520B7C163C8D81C71713063F"
+                      "texture" : "C1E8DFC49A1A2D7FD5371B1BBCB8C4A0"
                     }
                   ]
                 }
@@ -1552,8 +1552,8 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 1445.092041015625,
-                      "pointY" : 607.1598205566406
+                      "pointX" : 1459.038772250492,
+                      "pointY" : 604.8353653508295
                     },
                     "width" : 631,
                     "sublayerTransform" : [
@@ -1618,8 +1618,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 313.907958984375,
-                          "pointY" : 313.8401794433594
+                          "pointX" : 313.9612277495085,
+                          "pointY" : 314.1646346491705
                         },
                         "width" : 631,
                         "sublayerTransform" : [
@@ -1655,7 +1655,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C8862C76BF0A6F26DEB71D56D52638C0"
+                      "texture" : "C4017F7DD03A4D00E8FF663788069430"
                     }
                   ]
                 }
